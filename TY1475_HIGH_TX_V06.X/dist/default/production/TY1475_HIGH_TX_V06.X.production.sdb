@@ -11,7 +11,7 @@
 [v ___eecpymem __eecpymem `(v  1 e 1 0 ]
 "39
 [v ___memcpyee __memcpyee `(v  1 e 1 0 ]
-"381 D:\yiming\00work\TY1475_HIGH_TX_V06.X\main.c
+"381 D:\yiming\04github\TY1475_HIGH_TX\TY1475_HIGH_TX_V06.X\main.c
 [v _wait_for_pwm_cycle_complete wait_for_pwm_cycle_complete `(v  1 e 1 0 ]
 "390
 [v _PWM PWM `(v  1 e 1 0 ]
@@ -114,7 +114,7 @@
 `a 1 b6 1 0 :1:6 
 `a 1 b7 1 0 :1:7 
 ]
-"179 D:\yiming\00work\TY1475_HIGH_TX_V06.X\main.c
+"179 D:\yiming\04github\TY1475_HIGH_TX\TY1475_HIGH_TX_V06.X\main.c
 [u S31 . 1 `S22 1 . 1 0 `uc 1 Byte 1 0 ]
 [v _D2 D2 `S31  1 e 1 0 ]
 [s S34 . 1 `a 1 b0 1 0 :1:0 
